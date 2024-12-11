@@ -1,0 +1,3 @@
+<launch>
+	<node name="clover_app" pkg="clover_app" type="main.py"/>
+</launch>
