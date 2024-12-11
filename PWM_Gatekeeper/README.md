@@ -1,4 +1,4 @@
-# clover_app
+# PWM_Gatekeeper package
 
 Clover demo application that can be used as a template.
 
@@ -55,12 +55,6 @@ The systemd service file is installed as `<package_name>.service`, e. g. `ros-no
 
 ```bash
 sudo systemctl status ros-noetic-clover-app
-```
-
-The demo script will publish to a topic `/test`:
-
-```bash
-rostopic echo /test
 ```
 
 The web part should be available at `http://<hostname>/<package_name>`, e. g. http://192.168.11.1/clover_app.
