@@ -1,5 +1,9 @@
 # PWM_Gatekeeper
 
+<img src="PWM_Gatekeeper/www/SibRoboFest_Led_On.png" align="right" width="400px" >
+<img src="PWM_Gatekeeper/www/SibRoboFest_Led_Off.png" align="down" width="400px" alt="COEX Clover Drone">
+
+
 Широко Импульсная Модуляция
 
 Наша дружная команда состоит из трех человек: Программист-инженер,Специалист по документации дизайнер.
