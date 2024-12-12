@@ -1,7 +1,7 @@
 # PWM_Gatekeeper
 
 <img src="PWM_Gatekeeper/www/SibRoboFest_Led_On.png" align="right" width="400px" >
-<img src="PWM_Gatekeeper/www/SibRobaFest_Led_Off.pngf.png" align="down" width="400px" >
+<img src="PWM_Gatekeeper/www/SibRobaFest_Led_Off.pngf.png" align="left" width="400px" >
 
 
 Широко Импульсная Модуляция
