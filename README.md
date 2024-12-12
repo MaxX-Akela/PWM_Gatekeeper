@@ -1,3 +1,3 @@
 # PWM_Gatekeeper
 
-<img src="docs/assets/clover42-main-margin.png" align="right" width="400px" alt="COEX Clover Drone">
+<img src="PWM_Gatekeeper/www/Снимок экрана 2023-08-04 152241.png" align="right" width="400px" alt="Наш толисман">
